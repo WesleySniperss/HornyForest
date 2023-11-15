@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#ББЕГ  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Дружні_НПС  ",
+      "color": {
+        "a": 1,
+        "rgb": 29885
+      }
+    },
+    {
+      "query": "tag:#Персонажі  ",
+      "color": {
+        "a": 1,
+        "rgb": 6921728
+      }
+    },
+    {
+      "query": "tag:#Квестові_предмети  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766213
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.42967809143425245,
   "close": false
 }
