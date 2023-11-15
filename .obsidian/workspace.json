@@ -301,7 +301,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Анна.md",
+                "file": "Дружні НПС/Анна.md",
                 "mode": "source",
                 "source": false
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лоло.md",
+                "file": "Дружні НПС/Лоло.md",
                 "mode": "source",
                 "source": false
               }
@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Номад.md",
+                "file": "Дружні НПС/Номад.md",
                 "mode": "source",
                 "source": false
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тірай.md",
+                "file": "Дружні НПС/Тірай.md",
                 "mode": "source",
                 "source": false
               }
@@ -410,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тірай.md",
+                "file": "Дружні НПС/Тірай.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тірай.md",
+                "file": "Дружні НПС/Тірай.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тірай.md"
+                "file": "Дружні НПС/Тірай.md"
               }
             }
           }
@@ -470,12 +470,12 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "eec59e650612f21b",
+  "active": "da45691b177b6a7b",
   "lastOpenFiles": [
-    "Номад.md",
-    "Тірай.md",
-    "Лоло.md",
-    "Анна.md",
+    "Дружні НПС/Номад.md",
+    "Дружні НПС/Тірай.md",
+    "Дружні НПС/Лоло.md",
+    "Дружні НПС/Анна.md",
     "Персонажі/Меленія.md",
     "Персонажі/Дейз.md",
     "Персонажі/Ернесто.md",
