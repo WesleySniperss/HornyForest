@@ -186,9 +186,165 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7cf4b26b6ea2fc9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ББЕГ/Епатаж.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8680c1035f1eefe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ББЕГ/Герілл.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df1c4a9d6bfd1ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ББЕГ/Крістофер Вейкер.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba8fc7d5001d56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажі/Ельсі.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ceace146844a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажі/Анар.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14025381ca637c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажі/Целестія.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29628362b87a4508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажі/Ернесто.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba41f87a84097b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажі/Дейз.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a568321d0b7f93ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажі/Меленія.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "836656b2f72581d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Анна.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5669329a598efbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лоло.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15dcb734c5c3ed77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Номад.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eec59e650612f21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тірай.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -254,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ББЕГ/Урзок.md",
+                "file": "Тірай.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ББЕГ/Урзок.md",
+                "file": "Тірай.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ББЕГ/Урзок.md"
+                "file": "Тірай.md"
               }
             }
           }
@@ -314,24 +470,34 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "da45691b177b6a7b",
+  "active": "eec59e650612f21b",
   "lastOpenFiles": [
+    "Номад.md",
+    "Тірай.md",
+    "Лоло.md",
+    "Анна.md",
+    "Персонажі/Меленія.md",
+    "Персонажі/Дейз.md",
+    "Персонажі/Ернесто.md",
+    "Персонажі/Целестія.md",
+    "Персонажі/Анар.md",
+    "Персонажі/Ельсі.md",
+    "ББЕГ/Крістофер Вейкер.md",
+    "ББЕГ/Герілл.md",
+    "ББЕГ/Епатаж.md",
+    "Дружні НПС/Дюк.md",
     "Квестові предмети/Таємнича маска.md",
     "Квестові предмети/Меч бляклого місяця.md",
     "Квестові предмети/Багряний хор.md",
     "ББЕГ/Урзок.md",
     "Фракції/Поліція Невервінтера.md",
     "Фракції/Секретна служба Невервінтера.md",
-    "Дружні НПС/Дюк.md",
     "Квестові предмети/Книжка ч.3.md",
     "Фракції/Пандорум.md",
     "Фракції/Опір.md",
     "Фракції/Коло друїдів.md",
     "Локації/Священний ліс.md",
     "Локації/Невервінтер.md",
-    "Квестові предмети/Книжка ч.2.md",
-    "Квестові предмети/Книжка ч.1.md",
-    "Коло друїдів.md",
     "Без назви",
     "Квестові предмети",
     "ББЕГ",
