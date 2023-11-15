@@ -337,14 +337,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дружні НПС/Тірай.md",
+                "file": "ББЕГ/Герілл.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "120bfcbd320759ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фракції/Жентарім.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -410,7 +422,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дружні НПС/Тірай.md",
+                "file": "Фракції/Жентарім.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +439,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дружні НПС/Тірай.md",
+                "file": "Фракції/Жентарім.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,15 +462,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дружні НПС/Тірай.md"
+                "file": "Фракції/Жентарім.md"
               }
             }
+          },
+          {
+            "id": "e05d5ef1475b22f7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -472,8 +494,10 @@
   },
   "active": "da45691b177b6a7b",
   "lastOpenFiles": [
-    "Дружні НПС/Номад.md",
+    "ББЕГ/Герілл.md",
+    "Фракції/Жентарім.md",
     "Дружні НПС/Тірай.md",
+    "Дружні НПС/Номад.md",
     "Дружні НПС/Лоло.md",
     "Дружні НПС/Анна.md",
     "Персонажі/Меленія.md",
@@ -483,7 +507,6 @@
     "Персонажі/Анар.md",
     "Персонажі/Ельсі.md",
     "ББЕГ/Крістофер Вейкер.md",
-    "ББЕГ/Герілл.md",
     "ББЕГ/Епатаж.md",
     "Дружні НПС/Дюк.md",
     "Квестові предмети/Таємнича маска.md",
@@ -497,7 +520,6 @@
     "Фракції/Опір.md",
     "Фракції/Коло друїдів.md",
     "Локації/Священний ліс.md",
-    "Локації/Невервінтер.md",
     "Без назви",
     "Квестові предмети",
     "ББЕГ",
