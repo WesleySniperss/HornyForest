@@ -347,12 +347,8 @@
             "id": "120bfcbd320759ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Фракції/Жентарім.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -422,7 +418,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фракції/Жентарім.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -439,7 +434,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Фракції/Жентарім.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -461,9 +455,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Фракції/Жентарім.md"
-              }
+              "state": {}
             }
           },
           {
@@ -492,10 +484,11 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "da45691b177b6a7b",
+  "active": "120bfcbd320759ad",
   "lastOpenFiles": [
-    "ББЕГ/Герілл.md",
+    "Локації/Невервінтер.md",
     "Фракції/Жентарім.md",
+    "ББЕГ/Герілл.md",
     "Дружні НПС/Тірай.md",
     "Дружні НПС/Номад.md",
     "Дружні НПС/Лоло.md",
@@ -519,7 +512,6 @@
     "Фракції/Пандорум.md",
     "Фракції/Опір.md",
     "Фракції/Коло друїдів.md",
-    "Локації/Священний ліс.md",
     "Без назви",
     "Квестові предмети",
     "ББЕГ",
