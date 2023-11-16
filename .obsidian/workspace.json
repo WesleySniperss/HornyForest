@@ -371,8 +371,12 @@
             "id": "e75a6554cc7f0e04",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Персонажі/Целестія.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -442,7 +446,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дружні НПС/Дюк.md",
+                "file": "Персонажі/Целестія.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -459,7 +463,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дружні НПС/Дюк.md",
+                "file": "Персонажі/Целестія.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -482,7 +486,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дружні НПС/Дюк.md"
+                "file": "Персонажі/Целестія.md"
               }
             }
           },
@@ -514,6 +518,7 @@
   },
   "active": "e75a6554cc7f0e04",
   "lastOpenFiles": [
+    "Персонажі/Меленія.md",
     "Персонажі/Целестія.md",
     "Локації/Священний ліс.md",
     "Локації/Невервінтер.md",
@@ -527,7 +532,6 @@
     "Дружні НПС/Номад.md",
     "Дружні НПС/Лоло.md",
     "Дружні НПС/Анна.md",
-    "Персонажі/Меленія.md",
     "Персонажі/Дейз.md",
     "Персонажі/Ернесто.md",
     "Персонажі/Анар.md",
